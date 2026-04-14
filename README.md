@@ -122,8 +122,8 @@ npm start
 
 ## 🔗Links
 
-* GitHub Repo:
-* Working link:
+* GitHub Repo:https://github.com/Sachin1707-jpg/Smart_inventry_system
+* Working link:magical-kitsune-3aa4fa.netlify.app
 
 ---
 

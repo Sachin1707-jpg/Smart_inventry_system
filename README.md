@@ -117,18 +117,13 @@ npm install
 npm start
 ```
 
----
-
-## 📸 Screenshots
-
-(Add your project screenshots here)
 
 ---
 
-## 🔗 Demo & Links
+## 🔗Links
 
-* GitHub Repo: https://github.com/your-username/your-repo-name
-* Demo Video / Drive Link: https://your-demo-link
+* GitHub Repo:
+* Working link:
 
 ---
 
@@ -152,8 +147,8 @@ npm start
 
 ## 👤 Author
 
-* Your Name
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Your Name: Sachin Verma
+* Email: sachinverma964839@gmail.com
 
 ---
 

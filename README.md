@@ -115,15 +115,6 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
 npm start
-```
-
-
----
-
-## 🔗Links
-
-* GitHub Repo:https://github.com/Sachin1707-jpg/Smart_inventry_system
-* Working link:magical-kitsune-3aa4fa.netlify.app
 
 ---
 
@@ -142,13 +133,6 @@ npm start
 * Mobile application
 * Barcode/QR code integration
 * Cloud deployment
-
----
-
-## 👤 Author
-
-* Your Name: Sachin Verma
-* Email: sachinverma964839@gmail.com
 
 ---
 

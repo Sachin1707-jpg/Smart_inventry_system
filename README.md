@@ -107,16 +107,7 @@ User Action → Frontend → Backend API → Database → Backend → Frontend (
 
 * Node.js installed
 * npm or yarn
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm start
-
----
+  
 
 ## 🌟 Unique Features
 
